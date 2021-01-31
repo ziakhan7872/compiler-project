@@ -1,0 +1,70 @@
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe.config
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csprojResolveAssemblyReference.cache
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.Cache
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\bin\Debug\MyCompiler.pdb
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.exe
+c:\users\zeeshan ali gill\documents\visual studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.pdb
+E:\7th Sem\CC\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe.config
+E:\7th Sem\CC\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe
+E:\7th Sem\CC\MyCompiler\MyCompiler\bin\Debug\MyCompiler.pdb
+E:\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csprojAssemblyReference.cache
+E:\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+E:\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+E:\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.cache
+E:\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.exe
+E:\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.pdb
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe.config
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.exe
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.pdb
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.pdb
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csprojResolveAssemblyReference.cache
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+C:\Users\ZeeShan Ali Gill\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.Cache
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe.config
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.exe
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.pdb
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\bin\Debug\MyCompiler.pdb
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.Cache
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form2.resources
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csprojAssemblyReference.cache
+C:\Users\Zeeshan\Documents\Visual Studio 2012\Projects\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.CoreCompileInputs.cache
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe.config
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.exe
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.pdb
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.pdb
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csprojResolveAssemblyReference.cache
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form2.resources
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+C:\Users\WaQar HusSain\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.Cache
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe.config
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.exe
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.pdb
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\bin\Debug\MyCompiler.pdb
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form2.resources
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.Cache
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csprojAssemblyReference.cache
+C:\Users\Zia\Desktop\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.CoreCompileInputs.cache
+E:\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form2.resources
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe.config
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\bin\Debug\MyCompiler.exe
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\bin\Debug\MyCompiler.pdb
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csprojAssemblyReference.cache
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Form2.resources
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.cache
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.exe
+E:\Uni semesters\7th Sem\CC\MyCompiler\MyCompiler\obj\Debug\MyCompiler.pdb
